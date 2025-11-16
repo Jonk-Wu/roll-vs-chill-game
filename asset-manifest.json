@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roll-vs-chill-game/static/css/main.feae3ce9.css",
+    "main.js": "/roll-vs-chill-game/static/js/main.3fe97405.js",
+    "static/js/453.85428728.chunk.js": "/roll-vs-chill-game/static/js/453.85428728.chunk.js",
+    "static/media/20251116162133_259_7.jpg": "/roll-vs-chill-game/static/media/20251116162133_259_7.cd409891bde6ff896ba1.jpg",
+    "index.html": "/roll-vs-chill-game/index.html",
+    "main.feae3ce9.css.map": "/roll-vs-chill-game/static/css/main.feae3ce9.css.map",
+    "main.3fe97405.js.map": "/roll-vs-chill-game/static/js/main.3fe97405.js.map",
+    "453.85428728.chunk.js.map": "/roll-vs-chill-game/static/js/453.85428728.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feae3ce9.css",
+    "static/js/main.3fe97405.js"
+  ]
+}
