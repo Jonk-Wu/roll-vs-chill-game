@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Preview
 
-You can preview and try this game by scanning the QR code below.
+You can preview and try this game by scanning the QR code below or [clicking the linck](https://jonk-wu.github.io/roll-vs-chill-game/).
 
 ![](./images/QR.jpg)
 
